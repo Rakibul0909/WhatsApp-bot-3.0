@@ -1,0 +1,8 @@
+Kali Linux Basic Installation:
+
+1. Download ISO from official Kali website.
+2. Create bootable USB using Rufus.
+3. Boot from USB.
+4. Install Kali with default settings.
+5. Update:
+   sudo apt update && sudo apt upgrade -y

@@ -1,0 +1,5 @@
+Real-time location tracking requires user permission.
+Use:
+- Google Maps Location Sharing
+- Find My Device
+Never track anyone without consent.
